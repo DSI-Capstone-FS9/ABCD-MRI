@@ -1,0 +1,4 @@
+papermill RunModels_run_down64.ipynb xx_res64_new.ipynb
+papermill RunModels_run_cropped64.ipynb xx_cr64_new.ipynb
+papermill RunModels_run_down128.ipynb xx_res128_new.ipynb
+papermill RunModels_run_cropped128.ipynb xx_cr128_new.ipynb

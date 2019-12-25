@@ -1,0 +1,4 @@
+papermill RunModels_run_down64_DenseNet.ipynb xx_res64_densenet_new.ipynb
+papermill RunModels_run_down64_medSimpleCNN.ipynb xx_medCNN_new.ipynb
+papermill RunModels_run_down64_medSimpleCNN_autofocus.ipynb xx_medAuto_new.ipynb
+papermill RunModels_run_down64_autofocus.ipynb xx_denseAuto.ipynb

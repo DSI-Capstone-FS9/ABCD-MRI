@@ -1,0 +1,176 @@
+{'high.educ_group': 4, 'female': 2, 'income_group': 8, 'race.ethnicity': 5, 'married': 6}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 930.123, Accuracy: 24320.171, Val Loss: 13.740, Val Accuracy: 537.373, Time Model: 35.859, Time Data: 2.552
+Epochs: 1
+Epoch 1, Loss: 65.668, Accuracy: 1927.028, Val Loss: 13.199, Val Accuracy: 420.489, Time Model: 20.915, Time Data: 2.321
+Epochs: 2
+Epoch 2, Loss: 62.668, Accuracy: 1387.086, Val Loss: 12.526, Val Accuracy: 268.102, Time Model: 21.124, Time Data: 2.345
+Epochs: 3
+Epoch 3, Loss: 60.706, Accuracy: 1140.071, Val Loss: 12.356, Val Accuracy: 234.142, Time Model: 20.889, Time Data: 2.299
+Epochs: 4
+Epoch 4, Loss: 59.739, Accuracy: 1007.624, Val Loss: 12.376, Val Accuracy: 209.650, Time Model: 21.005, Time Data: 2.382
+Epochs: 5
+Epoch 5, Loss: 58.826, Accuracy: 915.663, Val Loss: 11.963, Val Accuracy: 201.681, Time Model: 20.820, Time Data: 2.348
+Epochs: 6
+Epoch 6, Loss: 58.074, Accuracy: 840.921, Val Loss: 11.900, Val Accuracy: 199.058, Time Model: 20.874, Time Data: 2.348
+Epochs: 7
+Epoch 7, Loss: 57.469, Accuracy: 798.688, Val Loss: 11.783, Val Accuracy: 188.900, Time Model: 20.815, Time Data: 2.340
+Epochs: 8
+Epoch 8, Loss: 57.108, Accuracy: 763.646, Val Loss: 11.740, Val Accuracy: 178.494, Time Model: 20.870, Time Data: 2.361
+Epochs: 9
+Epoch 9, Loss: 56.789, Accuracy: 729.900, Val Loss: 11.729, Val Accuracy: 166.052, Time Model: 20.839, Time Data: 2.332
+{'high.educ_group': 4, 'female': 2, 'income_group': 8, 'race.ethnicity': 5, 'married': 6}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+{'high.educ_group': 4, 'female': 2, 'income_group': 8, 'race.ethnicity': 5, 'married': 6}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+{'race.ethnicity': 5, 'married': 6, 'high.educ_group': 4, 'income_group': 8, 'female': 2}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 2859.727, Accuracy: 187475.226, Val Loss: 13.760, Val Accuracy: 516.806, Time Model: 35.600, Time Data: 2.461
+Epochs: 1
+Epoch 1, Loss: 64.203, Accuracy: 1627.243, Val Loss: 13.115, Val Accuracy: 306.884, Time Model: 21.272, Time Data: 2.462
+Learning rate: <tf.Variable 'Adam/learning_rate:0' shape=() dtype=float32, numpy=0.00033333336>
+Epochs: 2
+Epoch 2, Loss: 60.924, Accuracy: 1198.878, Val Loss: 12.296, Val Accuracy: 244.264, Time Model: 20.808, Time Data: 2.500
+Epochs: 3
+{'high.educ_group': 4, 'race.ethnicity': 5, 'income_group': 8, 'female': 2, 'married': 6}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 79.379, Accuracy: 2039.772, Val Loss: 793.044, Val Accuracy: 20024.049, Time Model: 44.174, Time Data: 2.382
+Epochs: 1
+Epoch 1, Loss: 62.243, Accuracy: 1103.475, Val Loss: 29.968, Val Accuracy: 541.049, Time Model: 25.097, Time Data: 2.426
+Epochs: 2
+Epoch 2, Loss: 61.297, Accuracy: 1423.821, Val Loss: 33.917, Val Accuracy: 1215.810, Time Model: 25.269, Time Data: 2.393
+Epochs: 3
+Epoch 3, Loss: 59.451, Accuracy: 1203.577, Val Loss: 133.482, Val Accuracy: 3455.153, Time Model: 25.074, Time Data: 2.443
+Epochs: 4
+Epoch 4, Loss: 58.243, Accuracy: 992.407, Val Loss: 146.873, Val Accuracy: 1108.435, Time Model: 25.211, Time Data: 2.449
+Epochs: 5
+{'married': 6, 'high.educ_group': 4, 'female': 2, 'race.ethnicity': 5, 'income_group': 8}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+{'married': 6, 'high.educ_group': 4, 'female': 2, 'race.ethnicity': 5, 'income_group': 8}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 79.327, Accuracy: 1827.041, Val Loss: 1944.383, Val Accuracy: 66626.931, Time Model: 40.731, Time Data: 2.313
+Epochs: 1
+Epoch 1, Loss: 61.548, Accuracy: 1133.886, Val Loss: 152.895, Val Accuracy: 6152.799, Time Model: 25.240, Time Data: 2.326
+Epochs: 2
+Epoch 2, Loss: 60.173, Accuracy: 1064.278, Val Loss: 44.447, Val Accuracy: 1198.757, Time Model: 24.988, Time Data: 2.330
+Epochs: 3
+{'married': 6, 'high.educ_group': 4, 'female': 2, 'race.ethnicity': 5, 'income_group': 8}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+{'married': 6, 'high.educ_group': 4, 'female': 2, 'race.ethnicity': 5, 'income_group': 8}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+{'married': 6, 'high.educ_group': 4, 'female': 2, 'race.ethnicity': 5, 'income_group': 8}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+{'married': 6, 'high.educ_group': 4, 'female': 2, 'race.ethnicity': 5, 'income_group': 8}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 80.638, Accuracy: 1837.983, Val Loss: 990.974, Val Accuracy: 12857.419, Time Model: 42.375, Time Data: 2.348
+Epochs: 1
+Epoch 1, Loss: 61.399, Accuracy: 1134.136, Val Loss: 66.343, Val Accuracy: 968.672, Time Model: 25.042, Time Data: 2.322
+Epochs: 2
+{'married': 6, 'high.educ_group': 4, 'female': 2, 'race.ethnicity': 5, 'income_group': 8}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 82.959, Accuracy: 1945.483, Val Loss: 699.892, Val Accuracy: 39946.161, Time Model: 40.839, Time Data: 2.324
+Epochs: 1
+Epoch 1, Loss: 62.053, Accuracy: 1196.927, Val Loss: 59.574, Val Accuracy: 1417.188, Time Model: 25.297, Time Data: 2.270
+Epochs: 2
+Epoch 2, Loss: 60.861, Accuracy: 1273.712, Val Loss: 35.475, Val Accuracy: 2209.784, Time Model: 24.968, Time Data: 2.262
+Epochs: 3
+Epoch 3, Loss: 59.477, Accuracy: 1028.271, Val Loss: 38.235, Val Accuracy: 966.760, Time Model: 25.277, Time Data: 2.266
+Epochs: 4
+Epoch 4, Loss: 58.779, Accuracy: 981.390, Val Loss: 44.269, Val Accuracy: 386.153, Time Model: 25.263, Time Data: 2.275
+Epochs: 5
+Epoch 5, Loss: 58.056, Accuracy: 992.257, Val Loss: 61.999, Val Accuracy: 2111.306, Time Model: 25.291, Time Data: 2.234
+Epochs: 6
+Epoch 6, Loss: 57.427, Accuracy: 941.498, Val Loss: 179.973, Val Accuracy: 3106.007, Time Model: 24.964, Time Data: 2.235
+Epochs: 7
+{'high.educ_group': 4, 'female': 2, 'married': 6, 'race.ethnicity': 5, 'income_group': 8}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+{'high.educ_group': 4, 'female': 2, 'married': 6, 'race.ethnicity': 5, 'income_group': 8}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+{'female': 2, 'high.educ_group': 4, 'married': 6, 'race.ethnicity': 5, 'income_group': 8}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 69.426, Accuracy: 1922.595, Val Loss: 55.799, Val Accuracy: 6228.341, Time Model: 296.706, Time Data: 203.130
+Epochs: 1
+{'married': 6, 'female': 2, 'race.ethnicity': 5, 'income_group': 8, 'high.educ_group': 4}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 279.661, Accuracy: 12690.194, Val Loss: 15.369, Val Accuracy: 577.314, Time Model: 275.281, Time Data: 189.975
+Epochs: 1
+{'female': 2, 'race.ethnicity': 5, 'married': 6, 'high.educ_group': 4, 'income_group': 8}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 2672.625, Accuracy: 223123.397, Val Loss: 13.690, Val Accuracy: 557.058, Time Model: 41.962, Time Data: 4.116
+Epochs: 1
+Epoch 1, Loss: 75.526, Accuracy: 2157.381, Val Loss: 13.631, Val Accuracy: 546.826, Time Model: 27.232, Time Data: 3.926
+Epochs: 2
+Epoch 2, Loss: 74.478, Accuracy: 2222.609, Val Loss: 13.671, Val Accuracy: 544.710, Time Model: 27.177, Time Data: 4.113
+Epochs: 3
+Epoch 3, Loss: 152.263, Accuracy: 6343.501, Val Loss: 13.707, Val Accuracy: 544.963, Time Model: 27.269, Time Data: 4.036
+Epochs: 4
+Epoch 4, Loss: 645.096, Accuracy: 13848.803, Val Loss: 14.447, Val Accuracy: 605.854, Time Model: 27.266, Time Data: 4.039
+Epochs: 5
+{'female': 2, 'income_group': 8, 'high.educ_group': 4, 'race.ethnicity': 5, 'married': 6}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+{'female': 2, 'income_group': 8, 'high.educ_group': 4, 'race.ethnicity': 5, 'married': 6}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 3002.078, Accuracy: 283999.974, Val Loss: 14.123, Val Accuracy: 563.379, Time Model: 38.583, Time Data: 4.099
+Epochs: 1
+Epoch 1, Loss: 664.043, Accuracy: 10917.000, Val Loss: 13.788, Val Accuracy: 550.940, Time Model: 27.706, Time Data: 4.030
+Epochs: 2
+Epoch 2, Loss: 821.750, Accuracy: 49002.635, Val Loss: 13.896, Val Accuracy: 561.325, Time Model: 27.491, Time Data: 4.026
+Epochs: 3
+{'female': 2, 'income_group': 8, 'high.educ_group': 4, 'race.ethnicity': 5, 'married': 6}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 235.814, Accuracy: 4131.946, Val Loss: 13.984, Val Accuracy: 550.485, Time Model: 35.233, Time Data: 4.025
+Epochs: 1
+Epoch 1, Loss: 66.138, Accuracy: 1954.612, Val Loss: 13.588, Val Accuracy: 482.567, Time Model: 22.570, Time Data: 4.096
+Epochs: 2
+Epoch 2, Loss: 63.629, Accuracy: 1455.926, Val Loss: 12.627, Val Accuracy: 247.461, Time Model: 22.549, Time Data: 4.052
+Epochs: 3
+Epoch 3, Loss: 61.424, Accuracy: 1147.397, Val Loss: 12.301, Val Accuracy: 226.752, Time Model: 22.565, Time Data: 4.077
+Epochs: 4
+Epoch 4, Loss: 60.691, Accuracy: 1043.164, Val Loss: 12.157, Val Accuracy: 206.943, Time Model: 22.571, Time Data: 4.055
+Epochs: 5
+Epoch 5, Loss: 60.303, Accuracy: 990.538, Val Loss: 12.095, Val Accuracy: 190.740, Time Model: 22.793, Time Data: 4.030
+Epochs: 6
+Epoch 6, Loss: 59.961, Accuracy: 954.830, Val Loss: 11.983, Val Accuracy: 179.574, Time Model: 22.566, Time Data: 4.000
+Epochs: 7
+Epoch 7, Loss: 59.422, Accuracy: 922.476, Val Loss: 11.939, Val Accuracy: 182.344, Time Model: 22.804, Time Data: 4.023
+Epochs: 8
+Epoch 8, Loss: 58.905, Accuracy: 895.472, Val Loss: 11.918, Val Accuracy: 187.946, Time Model: 22.557, Time Data: 4.021
+Epochs: 9
+Epoch 9, Loss: 58.247, Accuracy: 856.541, Val Loss: 11.821, Val Accuracy: 173.200, Time Model: 22.578, Time Data: 4.013
+Epochs: 10
+{'female': 2, 'race.ethnicity': 5, 'married': 6, 'high.educ_group': 4, 'income_group': 8}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 146.802, Accuracy: 3128.544, Val Loss: 13.908, Val Accuracy: 548.161, Time Model: 34.764, Time Data: 4.021
+Epochs: 1
+Epoch 1, Loss: 66.513, Accuracy: 2051.187, Val Loss: 13.810, Val Accuracy: 525.953, Time Model: 22.596, Time Data: 4.050
+Epochs: 2
+Epoch 2, Loss: 64.957, Accuracy: 1737.333, Val Loss: 14.262, Val Accuracy: 526.824, Time Model: 22.570, Time Data: 4.020
+Epochs: 3
+Epoch 3, Loss: 62.677, Accuracy: 1360.052, Val Loss: 12.905, Val Accuracy: 275.160, Time Model: 22.565, Time Data: 4.049
+Epochs: 4
+{'high.educ_group': 4, 'race.ethnicity': 5, 'female': 2, 'income_group': 8, 'married': 6}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 83.714, Accuracy: 1718.141, Val Loss: 421.967, Val Accuracy: 11258.879, Time Model: 45.312, Time Data: 3.950
+Epochs: 1
+Epoch 1, Loss: 62.349, Accuracy: 1231.577, Val Loss: 46.855, Val Accuracy: 1654.656, Time Model: 26.748, Time Data: 4.093
+Epochs: 2

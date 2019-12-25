@@ -1,0 +1,2 @@
+papermill RunModels_run_down64_Cross.ipynb xx_cross.ipynb
+papermill RunModels_run_down64_Hiearch.ipynb xx_hierarch.ipynb

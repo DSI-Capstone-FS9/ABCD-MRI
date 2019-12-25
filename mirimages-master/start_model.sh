@@ -1,0 +1,2 @@
+papermill RunModels_run_down64_DenseNet.ipynb xx_densent.ipynb
+papermill RunModels_run_down64_medSimpleCNN.ipynb xx_simplenormal.ipynb

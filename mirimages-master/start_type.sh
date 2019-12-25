@@ -1,0 +1,5 @@
+papermill RunModels_run_down64_DenseNet.ipynb xx_res64_densenet_new.ipynb
+papermill RunModels_run_down64_DenseNet_t1.ipynb xx_t1_new.ipynb
+papermill RunModels_run_down64_DenseNet_t2.ipynb xx_t2_new.ipynb
+papermill RunModels_run_down64_DenseNet_t1t2def.ipynb xx_t1t2def.ipynb
+papermill RunModels_run_down64_DenseNet_def.ipynb xx_def.ipynb

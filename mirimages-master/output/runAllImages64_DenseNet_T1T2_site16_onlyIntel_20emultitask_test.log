@@ -1,0 +1,44 @@
+{'married': 6, 'high.educ_group': 4, 'race.ethnicity': 5, 'female': 2, 'income_group': 8}
+['nihtbx_cardsort_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_reading_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 48.924, Accuracy: 51.025, Val Loss: 9.402, Val Accuracy: 10.105, Time Model: 232.426, Time Data: 1.311
+Epochs: 1
+Epoch 1, Loss: 47.314, Accuracy: 52.131, Val Loss: 9.277, Val Accuracy: 10.015, Time Model: 197.127, Time Data: 1.293
+Epochs: 2
+Epoch 2, Loss: 47.171, Accuracy: 52.003, Val Loss: 9.528, Val Accuracy: 10.172, Time Model: 196.948, Time Data: 1.342
+Epochs: 3
+Epoch 3, Loss: 47.076, Accuracy: 51.985, Val Loss: 9.405, Val Accuracy: 10.081, Time Model: 197.119, Time Data: 1.346
+Epochs: 4
+Epoch 4, Loss: 46.835, Accuracy: 51.886, Val Loss: 14.330, Val Accuracy: 13.950, Time Model: 196.903, Time Data: 1.394
+Epochs: 5
+Epoch 5, Loss: 46.710, Accuracy: 51.819, Val Loss: 10.907, Val Accuracy: 11.194, Time Model: 196.793, Time Data: 1.302
+Epochs: 6
+Epoch 6, Loss: 46.679, Accuracy: 51.897, Val Loss: 12.972, Val Accuracy: 11.278, Time Model: 196.850, Time Data: 1.345
+Epochs: 7
+Epoch 7, Loss: 46.687, Accuracy: 51.753, Val Loss: 12.774, Val Accuracy: 12.317, Time Model: 196.846, Time Data: 1.342
+Epochs: 8
+Epoch 8, Loss: 46.646, Accuracy: 51.902, Val Loss: 11.299, Val Accuracy: 10.996, Time Model: 196.817, Time Data: 1.308
+Epochs: 9
+Epoch 9, Loss: 46.450, Accuracy: 51.738, Val Loss: 30.398, Val Accuracy: 25.518, Time Model: 196.892, Time Data: 1.356
+Epochs: 10
+Epoch 10, Loss: 46.399, Accuracy: 51.728, Val Loss: 13.294, Val Accuracy: 12.940, Time Model: 196.864, Time Data: 1.318
+Learning rate: <tf.Variable 'Adam/learning_rate:0' shape=() dtype=float32, numpy=0.00033333336>
+Epochs: 11
+Epoch 11, Loss: 45.608, Accuracy: 51.325, Val Loss: 11.892, Val Accuracy: 11.827, Time Model: 196.851, Time Data: 1.311
+Epochs: 12
+Epoch 12, Loss: 45.352, Accuracy: 51.273, Val Loss: 15.442, Val Accuracy: 14.752, Time Model: 196.927, Time Data: 1.314
+Epochs: 13
+Epoch 13, Loss: 45.069, Accuracy: 51.169, Val Loss: 18.655, Val Accuracy: 17.185, Time Model: 197.046, Time Data: 1.312
+Epochs: 14
+Epoch 14, Loss: 44.911, Accuracy: 51.019, Val Loss: 19.842, Val Accuracy: 16.012, Time Model: 196.988, Time Data: 1.329
+Epochs: 15
+Epoch 15, Loss: 44.554, Accuracy: 50.841, Val Loss: 32.267, Val Accuracy: 26.681, Time Model: 196.917, Time Data: 1.296
+Learning rate: <tf.Variable 'Adam/learning_rate:0' shape=() dtype=float32, numpy=0.00011111112>
+Epochs: 16
+Epoch 16, Loss: 43.485, Accuracy: 50.228, Val Loss: 11.837, Val Accuracy: 10.658, Time Model: 196.857, Time Data: 1.343
+Epochs: 17
+Epoch 17, Loss: 42.883, Accuracy: 49.852, Val Loss: 14.207, Val Accuracy: 12.985, Time Model: 196.797, Time Data: 1.283
+Epochs: 18
+Epoch 18, Loss: 42.326, Accuracy: 49.425, Val Loss: 13.042, Val Accuracy: 12.732, Time Model: 196.691, Time Data: 1.260
+Epochs: 19
+Epoch 19, Loss: 41.700, Accuracy: 48.987, Val Loss: 13.223, Val Accuracy: 13.226, Time Model: 196.972, Time Data: 1.348

@@ -1,0 +1,23 @@
+{'high.educ_group': 4, 'income_group': 8, 'female': 2, 'married': 6, 'race.ethnicity': 5}
+['BMI_norm', 'age_norm', 'vol_norm', 'weight_norm', 'height_norm', 'nihtbx_fluidcomp_uncorrected_norm', 'nihtbx_cryst_uncorrected_norm', 'nihtbx_pattern_uncorrected_norm', 'nihtbx_picture_uncorrected_norm', 'nihtbx_list_uncorrected_norm', 'nihtbx_flanker_uncorrected_norm', 'nihtbx_picvocab_uncorrected_norm', 'nihtbx_cardsort_uncorrected_norm', 'nihtbx_totalcomp_uncorrected_norm', 'nihtbx_reading_uncorrected_norm']
+Epochs: 0
+Epoch 0, Loss: 62.397, Accuracy: 1298.961, Val Loss: 14.873, Val Accuracy: 568.931, Time Model: 238.474, Time Data: 1.777
+Epochs: 1
+Epoch 1, Loss: 59.053, Accuracy: 961.761, Val Loss: 13.742, Val Accuracy: 550.956, Time Model: 197.105, Time Data: 1.703
+Epochs: 2
+Epoch 2, Loss: 58.163, Accuracy: 905.284, Val Loss: 13.590, Val Accuracy: 537.688, Time Model: 197.155, Time Data: 1.451
+Epochs: 3
+Epoch 3, Loss: 57.872, Accuracy: 910.286, Val Loss: 13.169, Val Accuracy: 455.310, Time Model: 197.238, Time Data: 1.449
+Epochs: 4
+Epoch 4, Loss: 57.516, Accuracy: 882.167, Val Loss: 13.472, Val Accuracy: 429.467, Time Model: 197.237, Time Data: 1.418
+Epochs: 5
+Epoch 5, Loss: 57.289, Accuracy: 876.720, Val Loss: 12.975, Val Accuracy: 375.983, Time Model: 196.677, Time Data: 1.444
+Epochs: 6
+Epoch 6, Loss: 57.222, Accuracy: 877.710, Val Loss: 13.274, Val Accuracy: 288.283, Time Model: 196.583, Time Data: 1.395
+Epochs: 7
+Epoch 7, Loss: 57.166, Accuracy: 868.411, Val Loss: 21.173, Val Accuracy: 2189.107, Time Model: 196.526, Time Data: 1.387
+Learning rate: <tf.Variable 'Adam/learning_rate:0' shape=() dtype=float32, numpy=0.00033333336>
+Epochs: 8
+Epoch 8, Loss: 55.835, Accuracy: 814.782, Val Loss: 17.441, Val Accuracy: 866.421, Time Model: 197.395, Time Data: 1.384
+Epochs: 9
+Epoch 9, Loss: 55.387, Accuracy: 797.542, Val Loss: 16.172, Val Accuracy: 432.634, Time Model: 197.374, Time Data: 1.381

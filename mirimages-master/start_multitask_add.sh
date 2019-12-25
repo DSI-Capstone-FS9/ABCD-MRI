@@ -1,0 +1,2 @@
+papermill RunModels_run_down64_Cross_DenseNet.ipynb xx_densecross.ipynb
+papermill RunModels_run_down64_Cross_many.ipynb xx_many.ipynb
